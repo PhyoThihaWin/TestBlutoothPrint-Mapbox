@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="col_1">8dp</dimen>
+    <dimen name="col_2">16dp</dimen>
+    <dimen name="col_3">24dp</dimen>
+    <dimen name="col_4">32dp</dimen>
+    <dimen name="col_5">40dp</dimen>
+    <dimen name="gul_1">4dp</dimen>
+    <dimen name="gul_2">8dp</dimen>
+    <dimen name="gul_3">12dp</dimen>
+    <dimen name="gul_4">16dp</dimen>
+    <dimen name="gul_5">20dp</dimen>
+    <dimen name="pad_1">4dp</dimen>
+    <dimen name="pad_2">8dp</dimen>
+    <dimen name="pad_3">12dp</dimen>
+    <dimen name="pad_4">16dp</dimen>
+    <dimen name="pad_5">20dp</dimen>
+    <dimen name="height_input_box">56dp</dimen>
+    <dimen name="width_tab_item">126dp</dimen>
+    <dimen name="txt_size_small">10sp</dimen>
+    <dimen name="txt_size_body">14sp</dimen>
+    <dimen name="txt_size_medium">12sp</dimen>
+    <dimen name="txt_size_title">16sp</dimen>
+    <dimen name="txt_size_head">16sp</dimen>
+    <dimen name="text_size_print_normal">28dp</dimen>
+    <dimen name="height_divider">1.5dp</dimen>
+    <dimen name="height_button">56dp</dimen>
+    <dimen name="size_profile">48dp</dimen>
+    <dimen name="size_pin_point">40dp</dimen>
+    <dimen name="size_place_holder_icon">42dp</dimen>
+    <dimen name="size_product">56dp</dimen>
+    <dimen name="corner_normal">6dp</dimen>
+    <dimen name="eva_normal">2dp</dimen>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="size_shop_icon">48dp</dimen>
+    <dimen name="height_map">212dp</dimen>
+</resources>
